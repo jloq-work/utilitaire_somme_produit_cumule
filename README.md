@@ -1,2 +1,8 @@
-# utilitaire_somme_produit_cumule
-Projet en R, Somme par ligne, suivant un ensemble de colonnes ordonné filtrant, du produit cumulatif des éléments d’un dataframe
+# Projet en R : Utilitaire - somme produit cumulé d’un ensemble ordonné filtrant
+
+Somme par ligne, suivant un ensemble de colonnes ordonné filtrant, du produit cumulatif des éléments d’un dataframe
+
+Courte fonction pour calculer :
+- par ligne dans un dataframe ;
+- à partir d’un ensemble de colonnes ordonné manuellement ;
+- la somme du produit cumulé ;
